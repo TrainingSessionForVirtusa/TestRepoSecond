@@ -1,5 +1,6 @@
 public class Test{
 public static void main(string args[]){
 System.out.println("Test FIle");
+System.out.print("Test FIle");
 
 }
